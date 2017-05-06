@@ -45,6 +45,11 @@ For Example:
 
 more shell example in [sh](./sh) file 
 
+## 4.Append
+   CloudBWA is a distributed read mapping algorithms in GCDSS
+
+   The code of CloudBWA in another github project: [CloudBWA](https://github.com/xubo245/CloudBWA) 
+
 ##Tutorial
 
 the Tutorial or docs is being written.
