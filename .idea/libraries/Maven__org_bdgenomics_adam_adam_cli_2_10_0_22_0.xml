@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Maven: org.bdgenomics.adam:adam-cli_2.10:0.22.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/adam/adam-cli_2.10/0.22.0/adam-cli_2.10-0.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/adam/adam-cli_2.10/0.22.0/adam-cli_2.10-0.22.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/adam/adam-cli_2.10/0.22.0/adam-cli_2.10-0.22.0-sources.jar!/" />
+      <root url="file://E:/all/git/adam406/adam" />
+      <root url="file://E:/all/git/adam406/adam/adam-apis/src/test/java" />
+      <root url="file://E:/all/git/adam406/adam/adam-cli/src/main/java-templates" />
+      <root url="file://E:/all/git/adam406/adam/adam-cli/target/generated-sources/java-templates" />
+      <root url="file://E:/all/git/adam406/adam/adam-core/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

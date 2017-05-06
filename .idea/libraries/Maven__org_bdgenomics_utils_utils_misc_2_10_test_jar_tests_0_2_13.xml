@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bdgenomics.utils:utils-misc_2.10:test-jar:tests:0.2.13">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/utils/utils-misc_2.10/0.2.13/utils-misc_2.10-0.2.13-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/utils/utils-misc_2.10/0.2.13/utils-misc_2.10-0.2.13-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/utils/utils-misc_2.10/0.2.13/utils-misc_2.10-0.2.13-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

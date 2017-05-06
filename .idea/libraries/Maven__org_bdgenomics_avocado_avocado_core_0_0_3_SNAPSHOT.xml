@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bdgenomics.avocado:avocado-core:0.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bdgenomics/avocado/avocado-core/0.0.3-SNAPSHOT/avocado-core-0.0.3-20170408.102132-5982.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../avocado" />
+      <root url="file://$PROJECT_DIR$/../avocado/avocado-cli/src/main/java-templates" />
+      <root url="file://$PROJECT_DIR$/../avocado/avocado-cli/target/generated-sources/java-templates" />
+    </SOURCES>
+  </library>
+</component>
