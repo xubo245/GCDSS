@@ -50,10 +50,10 @@ more shell example in [sh](./sh) file
 
    The code of CloudBWA in another github project: [CloudBWA](https://github.com/xubo245/CloudBWA) 
 
-##Tutorial
+## Tutorial
 
 the Tutorial or docs is being written.
 
-##Help
+## Help
 
 If you have any questions or suggestions, please write it in the issue of this project or send an e-mail to me: xubo245@mail.ustc.edu.cn
